@@ -1,6 +1,7 @@
 ### Olá, forasteiro! Aqui é a Giovana
-- 𓆩✧𓆪 Terminando o Primeiro semestre
+- 𓆩✧𓆪 Segundo semestre
 - 𓆩✧𓆪 Estudando Python e JavaScript
+- 𓆩✧𓆪 Me aprofundando no front-end 
 
 <div align="center">
   <a href="https://github.com/GiovanaSierpinski">
