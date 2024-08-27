@@ -1,5 +1,5 @@
 ### Olá, forasteiro! Aqui é a Giovana
-- 𓆩✧𓆪 Segundo semestre
+- 𓆩✧𓆪 último semestre em Analise e Desenvolvimento de Sistemas
 - 𓆩✧𓆪 Estudando Python e JavaScript
 - 𓆩✧𓆪 Me aprofundando no front-end 
 
